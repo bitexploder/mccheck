@@ -8,4 +8,4 @@ Command line python program to monitor [middlecoin] (http://middlecoin.com) addr
 ``mccheck.py 1AwkaArdfkXkBQhZaBms7hZhUrsG9eZ3BE``
 
 # Notes
-This is just basic HTML scraping. If the middlecoin HTML format changes, or switches to JSON for example, this parser will be deprecated and or need to be updated
+This parses the official middlecoin JSON. 
